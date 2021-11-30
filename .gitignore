@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual Environment
+venv/
+
+# Generated files
+baua_biosides_scraping.csv
+
+# PyInstaller folders
+build/
+dist/
+*.spec
+
+# IDE files
+.vscode/
